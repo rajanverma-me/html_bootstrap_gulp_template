@@ -6,4 +6,5 @@ Steps:
 1. Clone the repo
 2. run npm install
 3. run gulp watch
-4. Start writing your scss in main.scss. As soon as you save the main.scss, the .css files will be refreshed with new code. 
+4. Start writing your scss in main.scss. 
+5. As soon as you save the main.scss, the .css files will be refreshed with new code. 
