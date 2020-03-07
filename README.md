@@ -1,6 +1,6 @@
 HTML Bootstrap Gulp Template
 
-This project is basically for chrome extensions. It is a boilerplate for making writing HTML/CSS from scratch using gulp watch for converting scss to css and bootstrap 4.3.
+This project is basically for chrome extensions. It is a boilerplate for compiling SCSS to CSS using gulp watch.
 
 Steps: 
 1. Clone the repo
