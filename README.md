@@ -1,5 +1,4 @@
 HTML Bootstrap Gulp Template
-
 This project is basically for chrome extensions. It is a boilerplate for compiling SCSS to CSS using gulp watch.
 
 Steps: 
